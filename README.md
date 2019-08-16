@@ -1,5 +1,5 @@
 # testSpys
-The project contains the spider for getting proxy-addresses and ports from site http://spys.one.
+The project contains the spider for getting IP-addresses and ports from site http://spys.one.
 
 System requirements are contained in requirements.txt.
 
